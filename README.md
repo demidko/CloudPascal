@@ -11,5 +11,5 @@ A modern version of the Pascal language for working in a cloud environment.
 ## Usage
 
 ```shell
-CloudPascal variables.json otherscripts.json
+CloudPascal Variables.json OtherScripts.json
 ```
